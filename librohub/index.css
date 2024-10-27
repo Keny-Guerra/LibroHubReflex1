@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Julius Sans One", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(3, 6, 12, 1);
+}
+
+footer {
+  bottom: 0;
+  text-align: center;
+  color: white;
+  padding: 2% 1%;
+}
+footer p {
+  margin: 0;
+}
+
+footer .transparente {
+  color: rgba(204, 204, 204, 0.664);
+}
+
+nav ul {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  padding: 2% 5%;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: rgb(255, 217, 0);
+}
+
+.gallery {
+  width: 100%;
+  color: white;
+  margin-bottom: 15%;
+}
+
+.gallery .image-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.gallery .image-container {
+  width: 20%;
+}
+
+.gallery img {
+  width: 100%;
+}
+.gallery img:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+  transition: all 0.3s ease-in-out;
+}

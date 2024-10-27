@@ -1,0 +1,88 @@
+{
+    "libros": [
+      {
+        "nombre": "Libro Nombre 1",
+        "autor": "Nombre Autor 1",
+        "precio": 46.31,
+        "cantidad": 3,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 2",
+        "autor": "Nombre Autor 2",
+        "precio": 29.99,
+        "cantidad": 5,
+        "imagen": "/img/1729954331156.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 3",
+        "autor": "Nombre Autor 3",
+        "precio": 15.75,
+        "cantidad": 2,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 4",
+        "autor": "Nombre Autor 4",
+        "precio": 22.5,
+        "cantidad": 6,
+        "imagen": "/img/1729954331156.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 5",
+        "autor": "Nombre Autor 5",
+        "precio": 10.99,
+        "cantidad": 8,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 6",
+        "autor": "Nombre Autor 6",
+        "precio": 35,
+        "cantidad": 4,
+        "imagen": "/img/1729954331156.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 7",
+        "autor": "Nombre Autor 7",
+        "precio": 18.25,
+        "cantidad": 7,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 8",
+        "autor": "Nombre Autor 8",
+        "precio": 27.9,
+        "cantidad": 9,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 9",
+        "autor": "Nombre Autor 9",
+        "precio": 40.75,
+        "cantidad": 3,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "Libro Nombre 10",
+        "autor": "Nombre Autor 10",
+        "precio": 50,
+        "cantidad": 1,
+        "imagen": "/img/imagenlibro8.jpg"
+      },
+      {
+        "nombre": "a",
+        "autor": "g",
+        "precio": 3,
+        "cantidad": 4,
+        "imagen": "/img/1729954318527.jpg"
+      },
+      {
+        "nombre": "a",
+        "autor": "g",
+        "precio": 3,
+        "cantidad": 4,
+        "imagen": "/img/1729954331156.jpg"
+      }
+    ]
+  }
